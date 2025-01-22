@@ -1,5 +1,4 @@
-# 🏢 Customer Churn Prediction with Supervised Machine Learning Models
-customer churn prediction with classification ML models
+# 🏢 Customer Churn Prediction with Supervised Machine Learning Models (Classification)
 ![customer-churn](https://github.com/user-attachments/assets/4056cd9c-6079-4cac-96e3-ccdd3fcf3b92)
 
 
