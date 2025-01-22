@@ -3,7 +3,7 @@
 
 
 # 👇 Kaggle Link :
-https://www.kaggle.com/code/shiblinomani/project-04-customer-churn-prediction?scriptVersionId=218794512
+https://www.kaggle.com/code/shiblinomani/project-04-customer-churn-prediction#Classification-Model-Comparision
 # 😉 About Dataset
 https://www.kaggle.com/datasets/shubh0799/churn-modelling/data
 
