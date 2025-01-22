@@ -3,10 +3,9 @@
 
 
 # 👇 Kaggle Link :
-https://www.kaggle.com/code/shiblinomani/mri-of-brain-tumor-classification-using-vgg19#%F0%9F%98%B2-MODEL-PREDICTION-WITH-VALIDATION(UNSEEN-DATA)
-
+https://www.kaggle.com/code/shiblinomani/project-04-customer-churn-prediction?scriptVersionId=218794512
 # 😉 About Dataset
-[https://www.kaggle.com/datasets/iashiqul/mri-image-based-brain-tumor-classification](https://www.kaggle.com/datasets/shubh0799/churn-modelling/data)
+https://www.kaggle.com/datasets/shubh0799/churn-modelling/data
 
 # ㊗️ Models
 - 📈 Logistic Regression
